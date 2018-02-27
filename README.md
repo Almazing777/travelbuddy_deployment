@@ -1,0 +1,2 @@
+# travelbuddy_deployment
+Python/Django application: Login and Registration with validations. The app displays the logged user's created/joined travel plans; Also displays other users' travel plans. The travel plans are specific to user. User has the ability to join other users' travel plans. Once the user clicks join, the record moves to the main Trip Schedule table. The data is stored in SQLite Database.
